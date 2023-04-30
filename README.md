@@ -7,4 +7,4 @@
 
 -  [3. artificial-intelligence](https://github.com/fczhang0606/artificial-intelligence)
 
--  [4. musics](https://github.com/fczhang0606/musics)
+-  [4. embedded-systems](https://github.com/fczhang0606/embedded-systems)
