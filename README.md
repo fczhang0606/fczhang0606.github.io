@@ -8,3 +8,10 @@
 -  [3. artificial-intelligence](https://github.com/fczhang0606/artificial-intelligence)
 
 -  [4. embedded-systems](https://github.com/fczhang0606/embedded-systems)
+
+-  [5. literature](https://github.com/fczhang0606/literature)
+
+-  [6. music](https://github.com/fczhang0606/music)
+
+-  [5. movie](https://github.com/fczhang0606/movie)
+
