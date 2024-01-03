@@ -7,8 +7,9 @@
 # -  [3. artificial-intelligence](https://github.com/fczhang0606/3.0-Machine-Learning)
 ## -  [3. 0、Machine-Learning](https://github.com/fczhang0606/3.0-Machine-Learning)
 ## -  [3. 1、Graph Neural Networks](https://github.com/fczhang0606/Graph-Neural-Networks)
-## -  [3. 2、Single-Agent-Reinforcement-Learning](https://github.com/fczhang0606/Single-Agent-Reinforcement-Learning)
-## -  [3. 3、Multi-Agent-Reinforcement-Learning](https://github.com/fczhang0606/Multi-Agent-Reinforcement-Learning)
+## -  [3. 2、HyperGraph Neural Networks](https://github.com/fczhang0606/3.2-HyperGraph-Neural-Networks)
+## -  [3. 3、Single-Agent-Reinforcement-Learning](https://github.com/fczhang0606/Single-Agent-Reinforcement-Learning)
+## -  [3. 4、Multi-Agent-Reinforcement-Learning](https://github.com/fczhang0606/Multi-Agent-Reinforcement-Learning)
 
 
 # -  [4. NeRF-based SLAM](https://github.com/fczhang0606/embedded-systems)
