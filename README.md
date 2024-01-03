@@ -4,7 +4,7 @@
 # -  [2. mathematics](https://github.com/fczhang0606/mathematics)
 
 
-# -  [3. artificial-intelligence](https://github.com/fczhang0606/3.0-Machine-Learning)
+# -  [3. artificial-intelligence]
 ## -  [3. 0、Machine-Learning](https://github.com/fczhang0606/3.0-Machine-Learning)
 ## -  [3. 1、Graph-Neural-Networks](https://github.com/fczhang0606/Graph-Neural-Networks)
 ## -  [3. 2、HyperGraph-Neural-Networks](https://github.com/fczhang0606/3.2-HyperGraph-Neural-Networks)
