@@ -4,8 +4,9 @@
 # -  [2. mathematics](https://github.com/fczhang0606/mathematics)
 
 
-# -  [3. artificial-intelligence]
-## -  [4. 0、Machine-Learning](https://github.com/fczhang0606/3.0-Machine-Learning)
+# -  [3. Machine-Learning](https://github.com/fczhang0606/3.0-Machine-Learning)
+
+
 ## -  [4. 1、Graph-Neural-Networks](https://github.com/fczhang0606/Graph-Neural-Networks)
 ## -  [4. 2、HyperGraph-Neural-Networks](https://github.com/fczhang0606/3.2-HyperGraph-Neural-Networks)
 ## -  [4. 3、Single-Agent-Reinforcement-Learning](https://github.com/fczhang0606/Single-Agent-Reinforcement-Learning)
