@@ -1,7 +1,7 @@
 <!-- # -  [1. philosophy](https://github.com/fczhang0606/philosophy) -->
 
 
-<!-- # -  [1. philosophy](https://github.com/fczhang0606/1-philosophy) -->
+# -  [1. philosophy](https://github.com/fczhang0606/1-philosophy)
 
 
 # -  [2. mathematics](https://github.com/fczhang0606/mathematics)
